@@ -1,0 +1,1 @@
+This is my project that i have made using HTML and CSS. Here i have taken 6 input tags with the max length of 1,and each box is having a placeholder of 0.Here I have also used many properties of CSS to make it more attractive.
