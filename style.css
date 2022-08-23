@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css?family=Muli:300,700&display=swap");
+
+ 
+
+#box{
+    width: 540px;
+    height: 360px;
+    border: 3px solid black;
+    padding: 25px;
+    border-radius: 15px;  
+    margin: 140px auto;  
+}
+.item{
+    margin-top: 100pxs;
+}
+
+#box p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pr{
+    font-size: small;
+    margin-right: 10px;
+}
+
+.otp{
+    margin-top: 30px;
+    /* margin-left: 15px; */
+}
+input[type="text"] {
+    width: 70px;
+    height: 105px;
+    font-size: 60px;
+    text-align: center;
+    border: 1px solid rgb(227, 230, 233);
+    border-radius: 5px;
+}
+
+.one-time{
+    margin: 3px;
+}
+
+.footer{
+    
+        font-size: 11px;
+        background-color: #ebe9eb;
+        width: 345px;
+        height: 51px;
+        margin-left: 106px;
+        margin-top: 46px;
+        border-radius: 5px;
+        padding-top: 2px;
+    
+}
+.footer p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #a5a3a3;
+    padding: 6px;
+    text-align: center;
+}
+input:focus {
+	outline:none;
+  	border: 2px solid rgb(138, 167, 221);
+    box-shadow:0 8px 2px -2px rgb(240, 232, 232);
+}
+
+input:first-of-type{
+	outline:none;
+  	border: 2px solid rgb(138, 167, 221);
+    box-shadow:0 8px 2px -2px rgb(240, 232, 232);
+}
